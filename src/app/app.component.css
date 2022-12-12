@@ -1,0 +1,9 @@
+.container {
+    margin-top: 50px;
+}
+
+.input-filter {
+    width: 200px;
+    height: 30px;
+    margin-bottom: 20px;
+}
